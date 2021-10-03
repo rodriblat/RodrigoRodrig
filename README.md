@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang and MongoDB**
 
-- 👨‍💻 Check out my website [rodrigorodrig.github.io](rodrigorodrig.github.io)
+- 👨‍💻 Check out my website [rodrigorodrig.github.io](https://rodrigorodrig.github.io)
 
 - 💬 You can ask me anything about **React, Python, Node.JS and Web Development**
 
