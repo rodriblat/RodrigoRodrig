@@ -1,5 +1,5 @@
 <h1 align="center">Howdy 👋, I'm Rodrigo.</h1>
-<h3 align="center">I'm a Nex-Gen Web Developer.</h3>
+<h3 align="center">I'm a Next-Gen Web Developer.</h3>
 
 - 🔭 I’m currently working on **Biclee**
 
