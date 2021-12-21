@@ -1,22 +1,23 @@
 <h1 align="center">Howdy 👋, I'm Rodrigo.</h1>
 <h3 align="center">I'm a Next-Gen Web Developer.</h3>
 
-- 🔭 I’m currently working on **Biclee**
 
-- 🌱 I’m currently learning **Golang and MongoDB**
 
-- 👨‍💻 Check out my website [rodrigorodrig.github.io](https://rodrigorodrig.github.io)
+- 🌱 I’m currently learning **MongoDB and Django**
+
+
 
 - 💬 You can ask me anything about **React, Python, Node.JS and Web Development**
+- 
 
-- 📫 Email me at **wonder.rodrik@gmail.com**
+- 📫 Email me at **main@rodriblat.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/wonder_rodrik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wonder_rodrik" height="30" width="40" /></a>
-<a href="https://instagram.com/wonder_rodrik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wonder_rodrik" height="30" width="40" /></a>
-<a href="https://dribbble.com/wonder_rodrik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="wonder_rodrik" height="30" width="40" /></a>
-<a href="https://www.behance.net/wonder_rodrik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="wonder_rodrik" height="30" width="40" /></a>
+<a href="https://twitter.com/rodriblat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rodriblat" height="30" width="40" /></a>
+<a href="https://instagram.com/rodriblat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wonder_rodrik" height="30" width="40" /></a>
+<a href="https://dribbble.com/rodriblat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="rodriblat" height="30" width="40" /></a>
+<a href="https://www.behance.net/rodriblat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rodriblat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
